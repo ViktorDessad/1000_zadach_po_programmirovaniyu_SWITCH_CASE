@@ -10,7 +10,7 @@ namespace _1000_zadach_po_programmirovaniyu_SWITCH_CASE
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Hello SWITCH_CASE");
         }
     }
 }
