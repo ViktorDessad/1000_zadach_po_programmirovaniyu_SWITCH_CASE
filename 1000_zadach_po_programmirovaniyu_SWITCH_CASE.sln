@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000_zadach_po_programmirovaniyu_SWITCH_CASE", "1000_zadach_po_programmirovaniyu_SWITCH_CASE\1000_zadach_po_programmirovaniyu_SWITCH_CASE.csproj", "{5AF6C672-50DB-4B43-8FA6-2695D95FA77F}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_SWITCH_CASE", "009_SWITCH_CASE\009_SWITCH_CASE.csproj", "{4819D000-FD53-41B9-B015-BA97720F68FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_SWITCH_CASE", "010_SWITCH_CASE\010_SWITCH_CASE.csproj", "{6B15A5C1-E5AA-48D9-BE93-873E66804B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_SWITCH_CASE", "011_SWITCH_CASE\011_SWITCH_CASE.csproj", "{7FB136F1-8BA8-49BA-80D3-59E30982960A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{6B15A5C1-E5AA-48D9-BE93-873E66804B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B15A5C1-E5AA-48D9-BE93-873E66804B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B15A5C1-E5AA-48D9-BE93-873E66804B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB136F1-8BA8-49BA-80D3-59E30982960A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB136F1-8BA8-49BA-80D3-59E30982960A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB136F1-8BA8-49BA-80D3-59E30982960A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB136F1-8BA8-49BA-80D3-59E30982960A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
