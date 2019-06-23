@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_SWITCH_CASE", "011_SWIT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_SWITCH_CASE", "012_SWITCH_CASE\012_SWITCH_CASE.csproj", "{CAB84449-8320-4507-8925-8EE3FB2E89E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_SWITCH_CASE", "013_SWITCH_CASE\013_SWITCH_CASE.csproj", "{7176A694-3B99-4C29-BF2A-A9C00CB749FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CAB84449-8320-4507-8925-8EE3FB2E89E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB84449-8320-4507-8925-8EE3FB2E89E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB84449-8320-4507-8925-8EE3FB2E89E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7176A694-3B99-4C29-BF2A-A9C00CB749FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7176A694-3B99-4C29-BF2A-A9C00CB749FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7176A694-3B99-4C29-BF2A-A9C00CB749FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7176A694-3B99-4C29-BF2A-A9C00CB749FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
